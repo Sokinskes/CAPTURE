@@ -1,0 +1,7 @@
+torch
+torchvision
+numpy
+opencv-python
+h5py
+einops
+pyrealsense2
